@@ -70,7 +70,7 @@ class ShapeCollection {
 Main *-- ShapeCollection
 Main *-- FormulaProvider
 
-class Main{ 
+class Main{
   + void addShape()
   + void getShapes()
   + double getLargestShapeByPerimeter()
