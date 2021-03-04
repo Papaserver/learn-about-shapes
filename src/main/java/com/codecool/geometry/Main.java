@@ -17,7 +17,6 @@ public class Main {
     public static void main(String[] args) {
 
 
-
         Scanner input = new Scanner(System.in);
         boolean isRunning = true;
 
@@ -26,7 +25,7 @@ public class Main {
             System.out.println("1 - Add new shape");
             System.out.println("2 - Show all shapes");
             System.out.println("3 - Show shape with the largest perimeter");
-            System.out.println("4 - Show shape with the largest areas");
+            System.out.println("4 - Show shape with the largest area");
             System.out.println("5 - Show formulas");
             System.out.println("Please type the menu number you want to select!");
 
